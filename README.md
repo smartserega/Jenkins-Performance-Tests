@@ -1,4 +1,7 @@
-# JmetrPerformanceTests
+# JmetrLoadTests
 
-- performance with using regular expressions example
-- Jmetr v.4
+Description:
+- Load test example with using Apache JMetr v.4
+
+
+g
